@@ -1,0 +1,43 @@
+body {
+  background-color: aquamarine;
+}
+
+header {
+  max-height: 200px;
+  z-index: 1;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+header a {
+  color: navy;
+}
+
+header a:hover {
+  color: white;
+}
+
+main {
+  padding-top: 100px;
+}
+
+section {
+  display: block;
+}
+
+h1 {
+  color: navy;
+}
+
+h2 {
+  color: rgb(79, 9, 80);
+}
+
+h3 {
+  color: crimson;
+}
+
+p {
+  color: rgb(0, 0, 0);
+}
